@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lasersite/static/css/main.f0b3c3ae.css",
+    "main.js": "/lasersite/static/js/main.7a832855.js",
+    "index.html": "/lasersite/index.html",
+    "main.f0b3c3ae.css.map": "/lasersite/static/css/main.f0b3c3ae.css.map",
+    "main.7a832855.js.map": "/lasersite/static/js/main.7a832855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b3c3ae.css",
+    "static/js/main.7a832855.js"
+  ]
+}
